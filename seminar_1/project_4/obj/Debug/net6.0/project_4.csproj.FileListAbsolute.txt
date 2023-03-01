@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\bin\Debug\net6.0\project_4.exe
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\bin\Debug\net6.0\project_4.deps.json
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\bin\Debug\net6.0\project_4.runtimeconfig.json
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\bin\Debug\net6.0\project_4.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\bin\Debug\net6.0\project_4.pdb
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.AssemblyInfo.cs
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\refint\project_4.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.pdb
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\project_4.genruntimeconfig.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_1\project_4\obj\Debug\net6.0\ref\project_4.dll
