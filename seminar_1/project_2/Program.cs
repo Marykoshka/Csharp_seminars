@@ -10,7 +10,7 @@ int numsqr = numberA * numberA;
 
 if(numsqr == numberB)
 {
-        Console.WriteLine("Число В - это квадрат числа А");
+    Console.WriteLine("Число В - это квадрат числа А");
 }
 else
 {
