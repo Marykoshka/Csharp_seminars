@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.AssemblyInfo.cs
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\bin\Debug\net6.0\task37.exe
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\bin\Debug\net6.0\task37.deps.json
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\bin\Debug\net6.0\task37.runtimeconfig.json
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\bin\Debug\net6.0\task37.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\bin\Debug\net6.0\task37.pdb
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\refint\task37.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.pdb
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\task37.genruntimeconfig.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_5\task37\obj\Debug\net6.0\ref\task37.dll
