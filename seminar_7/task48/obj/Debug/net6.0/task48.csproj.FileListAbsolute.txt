@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.AssemblyInfo.cs
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\bin\Debug\net6.0\task48.exe
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\bin\Debug\net6.0\task48.deps.json
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\bin\Debug\net6.0\task48.runtimeconfig.json
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\bin\Debug\net6.0\task48.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\bin\Debug\net6.0\task48.pdb
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\refint\task48.dll
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.pdb
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\task48.genruntimeconfig.cache
+C:\Users\Мария\Desktop\DEVOP\C_Seminars\seminar_7\task48\obj\Debug\net6.0\ref\task48.dll
